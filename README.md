@@ -1,7 +1,7 @@
 # macOS NTFS 读写挂载工具
 
 一个基于 **macFUSE + ntfs-3g** 的图形界面工具，让 macOS 原生只读的 NTFS 外部硬盘支持**读写**操作，替代 Paragon NTFS / Tuxera 等商业软件。
-
+# 测试时发现在macOS26无法正常使用很麻烦且与Nigate高度重合so选择弃置这个仓库，但仍然open，按需自己看着用
 ---
 
 ## 功能
